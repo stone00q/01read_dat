@@ -1,0 +1,17 @@
+# 忽略 _pycache 文件夹
+__pycache__/
+
+# 忽略 data_new 文件夹
+data_new/
+
+# 忽略所有 .vtu 文件
+*.vtu
+
+# 忽略所有 .vti 文件
+*.vti
+
+# 忽略所有 .vtp 文件
+*.vtp
+
+# 忽略所有 .obj 文件
+*.obj
