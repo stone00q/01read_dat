@@ -1,0 +1,2 @@
+2.3particle_1frame_KDTree_adjecting.py这个文件是从出发点每次迭代都放入新的粒子
+2.4particle_1frame_whole_sampling.py这个文件是在整个流场空间随机多少个点，但是没写粒子死亡，随着迭代，粒子会流动走，没做到在信息少的地方粒子数量少
